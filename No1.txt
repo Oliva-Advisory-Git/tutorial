@@ -1,6 +1,5 @@
 Hello Git
 
-merge test
-murge test
+Dogs are greater. 
 
 
