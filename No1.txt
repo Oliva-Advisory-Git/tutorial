@@ -1,6 +1,3 @@
 Hello Git
 
-merge test
-murge test
-
-
+Cats are great.
