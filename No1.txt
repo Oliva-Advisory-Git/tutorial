@@ -1,3 +1,4 @@
 Hello Git
 
 Cats are great.
+Dogs are greater.
