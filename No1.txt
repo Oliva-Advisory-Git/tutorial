@@ -4,5 +4,3 @@ Goodbye Git
 
 Cats are great.
 Dogs are greater.
-
-No fan.
