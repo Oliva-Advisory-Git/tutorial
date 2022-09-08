@@ -1,8 +1,13 @@
 Hello Git
 
+Goodbye Git
+
 Cats are great.
+
 Dogs are greater.
 
 
 Happy Birthday Nico!
+
+
 
